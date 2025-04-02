@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-dc6a3736-6f7f-4d49-a9cc-5395b8f8ee7e-c000.csv","size":72,"isDir":false,"modificationTime":1743564390565,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00001-1e74db7b-0604-4f78-84eb-0a28d6348d30-c000.csv","size":71,"isDir":false,"modificationTime":1743564390551,"blockReplication":1,"blockSize":33554432,"action":"add"}

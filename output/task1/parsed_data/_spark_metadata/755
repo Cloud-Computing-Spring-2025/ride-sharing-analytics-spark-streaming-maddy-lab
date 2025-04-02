@@ -1,0 +1,2 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-bc168e68-8ac4-40ce-9bec-383606fcd334-c000.csv","size":72,"isDir":false,"modificationTime":1743564382261,"blockReplication":1,"blockSize":33554432,"action":"add"}

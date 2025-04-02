@@ -1,0 +1,13 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-64e3bd35-cc43-4ee7-9944-0d2ea99ca995-c000.csv","timestamp":1743563886956,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-e7d3cd18-9447-430b-8cf8-3750710df003-c000.csv","timestamp":1743563887864,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-858b3904-13be-45de-ae8d-c2eecbad6134-c000.csv","timestamp":1743563888892,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-97786abc-2a72-4be8-8da5-c67ed3a55bc6-c000.csv","timestamp":1743563889889,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-58569536-0110-4f08-8da5-ea242386fd3b-c000.csv","timestamp":1743563891002,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-2e02bee5-0a9a-4306-8691-724bb9b86042-c000.csv","timestamp":1743563891959,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-4faa5931-09c1-4e94-8dfb-4aa5aa20d1bd-c000.csv","timestamp":1743563892975,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-3674cb68-e0fd-4474-ad08-d9133afb9714-c000.csv","timestamp":1743563894083,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-4357bfe0-29e2-474b-a955-1fee5e9ecc7c-c000.csv","timestamp":1743563894979,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-b990c334-0ceb-4af9-8288-ce4ac2a6cd05-c000.csv","timestamp":1743563895906,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-cff6e79f-6dc4-4fc0-8e97-2eb0e7570d63-c000.csv","timestamp":1743563896985,"batchId":4}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-maddy-lab/output/task1/parsed_data/part-00000-7d13ed7e-c079-42bc-81f7-f61f175081d6-c000.csv","timestamp":1743563898053,"batchId":4}
